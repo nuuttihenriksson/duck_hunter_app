@@ -67974,7 +67974,7 @@ s=p>1920?1920:p
 return new A.vO(A.cQ(new A.H_(A.cQ(A.a4W(A.cQ(this.e,r,r),q,s),r,r),r),r,r),r)}}
 A.B6.prototype={
 X(a){var s=null,r=A.cb(a,s,t.w).w
-return A.BR(A.b([A.iU(s,A.aiR("../assets/images/duckhunt_dog.png",s),s,s,new A.bS(0,r.a.b/4,0,0),s,s),A.iU(s,A.cQ(A.eA("Duck Hunt",A.bg(a).p2.a,s),s,s),s,s,new A.bS(0,10,0,0),s,s),A.iU(s,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks get to the top of the screen as they will escape!",A.bg(a).p2.y,B.et),s,s),s,s,new A.bS(0,20,0,0),s,500),A.iU(s,A.Vu(s,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,s),new A.QX()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),s,s),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.QY(),s,s,s),s,s,new A.bS(0,30,0,0),s,s)],t.F),B.aZ,B.fO)}}
+return A.BR(A.b([A.iU(s,A.aiR("assets/images/duckhunt_dog.png",s),s,s,new A.bS(0,r.a.b/4,0,0),s,s),A.iU(s,A.cQ(A.eA("Duck Hunt",A.bg(a).p2.a,s),s,s),s,s,new A.bS(0,10,0,0),s,s),A.iU(s,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks get to the top of the screen as they will escape!",A.bg(a).p2.y,B.et),s,s),s,s,new A.bS(0,20,0,0),s,500),A.iU(s,A.Vu(s,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,s),new A.QX()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),s,s),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.QY(),s,s,s),s,s,new A.bS(0,30,0,0),s,s)],t.F),B.aZ,B.fO)}}
 A.QY.prototype={
 $0(){return A.aiG($.bs(),new A.QW(),t.z)},
 $S:0}
@@ -68234,7 +68234,7 @@ A.EK.prototype={
 X(a){var s,r=null
 A.cb(a,r,t.w).toString
 s=t.F
-return A.cQ(A.BR(A.b([A.iU(r,A.auM(A.b([A.cQ(A.iU(r,A.aiR("../assets/images/duckhunt_dog.png",B.vE),r,100,r,r,116),r,r),A.a4W(A.cQ(A.eA("Duck Hunt",A.bg(a).p2.d,r),r,r),r,r)],s),B.fN,B.fO),r,r,r,r,r),A.iU(r,A.Vu(r,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,r),new A.a0e()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),r,r),B.ar,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.a0f(),r,r,r),r,r,new A.bS(0,10,0,0),r,r),A.iU(r,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks escape!",A.bg(a).p2.y,r),r,r),r,r,new A.bS(0,10,0,0),r,400)],s),B.aZ,B.cO),r,r)}}
+return A.cQ(A.BR(A.b([A.iU(r,A.auM(A.b([A.cQ(A.iU(r,A.aiR("assets/images/duckhunt_dog.png",B.vE),r,100,r,r,116),r,r),A.a4W(A.cQ(A.eA("Duck Hunt",A.bg(a).p2.d,r),r,r),r,r)],s),B.fN,B.fO),r,r,r,r,r),A.iU(r,A.Vu(r,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,r),new A.a0e()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),r,r),B.ar,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.a0f(),r,r,r),r,r,new A.bS(0,10,0,0),r,r),A.iU(r,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks escape!",A.bg(a).p2.y,r),r,r),r,r,new A.bS(0,10,0,0),r,400)],s),B.aZ,B.cO),r,r)}}
 A.a0f.prototype={
 $0(){return A.aiG($.bs(),new A.a0d(),t.z)},
 $S:0}
