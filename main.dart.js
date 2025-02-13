@@ -67826,18 +67826,14 @@ q.e=null}if(!q.xr)q.ghN().hB()},
 Lu(){var s,r=this,q=r.at
 q===$&&A.a()
 q=q.r
-s=q.a[0]
-if(s<0){q.su(0,-s)
-q=r.to
-q===$&&A.a()
-q.ok=r.RG
-q.wT()}q=r.at.r
-s=q.a[0]
-if(s>0){q.su(0,-s)
-q=r.to
-q===$&&A.a()
-q.ok=r.ry
-q.wT()}},
+q.su(0,-q.a[0])
+q=r.at.d.a.a[0]
+s=r.to
+if(q<=0){s===$&&A.a()
+s.ok=r.RG
+s.wT()}else{s===$&&A.a()
+s.ok=r.ry
+s.wT()}},
 bj(a,b){var s,r,q,p,o=this
 o.Pm(0,b)
 s=o.ghN().ok.ax.gBo()
@@ -67957,12 +67953,12 @@ s.fx$.hc(s.gq(0))}break
 case 1:s=q.b
 if(b>J.b0(s.gq(0),0)){r=s.as$
 r===$&&A.a()
-J.eb(r,0,b)
+J.eb(r,1,b)
 s.fx$.hc(s.gq(0))}break
 case 2:s=q.b
 if(b>J.b0(s.gq(0),0)){r=s.as$
 r===$&&A.a()
-J.eb(r,0,b)
+J.eb(r,2,b)
 s.fx$.hc(s.gq(0))}break}s=q.a.a
 s.a8e(A.aR(["highscores",q.b],t.z,s.$ti.c))}}
 A.Dq.prototype={
@@ -67974,7 +67970,7 @@ s=p>1920?1920:p
 return new A.vO(A.cQ(new A.H_(A.cQ(A.a4W(A.cQ(this.e,r,r),q,s),r,r),r),r,r),r)}}
 A.B6.prototype={
 X(a){var s=null,r=A.cb(a,s,t.w).w
-return A.BR(A.b([A.iU(s,A.aiR("../assets/images/duckhunt_dog.png",s),s,s,new A.bS(0,r.a.b/4,0,0),s,s),A.iU(s,A.cQ(A.eA("Duck Hunt",A.bg(a).p2.a,s),s,s),s,s,new A.bS(0,10,0,0),s,s),A.iU(s,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks get to the top of the screen as they will escape!",A.bg(a).p2.y,B.et),s,s),s,s,new A.bS(0,20,0,0),s,500),A.iU(s,A.Vu(s,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,s),new A.QX()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),s,s),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.QY(),s,s,s),s,s,new A.bS(0,30,0,0),s,s)],t.F),B.aZ,B.fO)}}
+return A.BR(A.b([A.iU(s,A.aiR("assets/images/duckhunt_dog.png",s),s,s,new A.bS(0,r.a.b/4,0,0),s,s),A.iU(s,A.cQ(A.eA("Duck Hunt",A.bg(a).p2.a,s),s,s),s,s,new A.bS(0,10,0,0),s,s),A.iU(s,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks get to the top of the screen as they will escape!",A.bg(a).p2.y,B.et),s,s),s,s,new A.bS(0,20,0,0),s,500),A.iU(s,A.Vu(s,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,s),new A.QX()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),s,s),B.ar,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.QY(),s,s,s),s,s,new A.bS(0,30,0,0),s,s)],t.F),B.aZ,B.fO)}}
 A.QY.prototype={
 $0(){return A.aiG($.bs(),new A.QW(),t.z)},
 $S:0}
@@ -68234,7 +68230,7 @@ A.EK.prototype={
 X(a){var s,r=null
 A.cb(a,r,t.w).toString
 s=t.F
-return A.cQ(A.BR(A.b([A.iU(r,A.auM(A.b([A.cQ(A.iU(r,A.aiR("../assets/images/duckhunt_dog.png",B.vE),r,100,r,r,116),r,r),A.a4W(A.cQ(A.eA("Duck Hunt",A.bg(a).p2.d,r),r,r),r,r)],s),B.fN,B.fO),r,r,r,r,r),A.iU(r,A.Vu(r,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,r),new A.a0e()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),r,r),B.ar,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.a0f(),r,r,r),r,r,new A.bS(0,10,0,0),r,r),A.iU(r,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks escape!",A.bg(a).p2.y,r),r,r),r,r,new A.bS(0,10,0,0),r,400)],s),B.aZ,B.cO),r,r)}}
+return A.cQ(A.BR(A.b([A.iU(r,A.auM(A.b([A.cQ(A.iU(r,A.aiR("assets/images/duckhunt_dog.png",B.vE),r,100,r,r,116),r,r),A.a4W(A.cQ(A.eA("Duck Hunt",A.bg(a).p2.d,r),r,r),r,r)],s),B.fN,B.fO),r,r,r,r,r),A.iU(r,A.Vu(r,A.cQ(A.aiq(A.akT(A.aip(A.ahb(A.eA("CLICK HERE TO START",A.bg(a).p2.f,r),new A.a0e()),A.bR(1e6,0,0))),A.bR(1e6,0,0)),r,r),B.ar,!1,r,r,r,r,r,r,r,r,r,r,r,r,new A.a0f(),r,r,r),r,r,new A.bS(0,10,0,0),r,r),A.iU(r,A.cQ(A.eA("Classic Duck Hunt where the goal is to hunt ducks. Don't let the ducks escape!",A.bg(a).p2.y,r),r,r),r,r,new A.bS(0,10,0,0),r,400)],s),B.aZ,B.cO),r,r)}}
 A.a0f.prototype={
 $0(){return A.aiG($.bs(),new A.a0d(),t.z)},
 $S:0}
